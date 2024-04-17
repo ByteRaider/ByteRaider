@@ -84,5 +84,5 @@ fw5
  b5 --o b7
  ```
   <p align="center">
-  <img src="https://github.com/DHANOLA/DHANOLA/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</center>
 </p>
