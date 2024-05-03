@@ -28,12 +28,14 @@ f1[HTML]
 f2[Css]
 f3[javaScpit]
 f4[Python]
+f5[Dart]
 fw1(DOM)
 fw2(htmx)
 
 fw3((Bootstrap))
 fw4((Tailwind))
 fw5((Materialize))
+fw6((Flutter))
 b1{Django}
 b2{RestAPIs}
 b3{Serializers}
@@ -58,22 +60,28 @@ b9
 fw3
 fw4
 fw5
+fw6
  end
   subgraph  FrontEnd 
  f1
  f2
  f3
  f4
- end  
+ end
+ subgraph Mobile Dev
+ f5
+  end
  f1 --o f2
  f1 --o f3
  f1 --o f4
  f2 --> fw3
  f2 --> fw4
  f2 --> fw5
+ fw6 --> b1
  f3 --o fw1
  f3 --o fw2
  f4 --o b1
+ f5 --> fw6
  b1 --> b2
  b1 --> b8
  b2 --o b3
