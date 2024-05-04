@@ -23,19 +23,20 @@
 ## Technologies 
 
 ```mermaid
-flowchart 
+ flowchart 
 f1[HTML]
 f2[Css]
 f3[javaScpit]
 f4[Python]
 f5[Dart]
+
 fw1(DOM)
 fw2(htmx)
 
-fw3((Bootstrap))
-fw4((Tailwind))
-fw5((Materialize))
-fw6((Flutter))
+fw3(Bootstrap)
+fw4(Tailwind)
+fw5(Materialize)
+fw6(Flutter)
 b1{Django}
 b2{RestAPIs}
 b3{Serializers}
@@ -45,7 +46,8 @@ b6{views}
 b7{ViewSets}
 b8{Template Engine}
 b9{Websocket}
- subgraph  BackEnd
+ 
+subgraph  BackEnd
 b1
 b2
 b3
@@ -56,21 +58,28 @@ b7
 b8
 b9
  end  
- subgraph Frameworks 
+ 
+subgraph Mobile Framework
+fw6
+end
+
+subgraph CSS Frameworks 
 fw3
 fw4
 fw5
-fw6
  end
-  subgraph  FrontEnd 
+  
+subgraph  Web FrontEnd 
  f1
  f2
  f3
  f4
  end
- subgraph Mobile Dev
+ 
+subgraph Mobile Dev
  f5
   end
+
  f1 --o f2
  f1 --o f3
  f1 --o f4
@@ -91,6 +100,7 @@ fw6
  b5 --o b6
  b5 --o b7
  ```
+  ```
   <p align="center">
 </center>
 </p>
