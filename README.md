@@ -100,7 +100,4 @@ subgraph Mobile Dev
  b5 --o b6
  b5 --o b7
  ```
-  ```
-  <p align="center">
-</center>
-</p>
+
