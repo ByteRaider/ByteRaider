@@ -1,4 +1,4 @@
--  Hi, I’m @ByteRaider
+-  Hi, I’m @ByteR1d3r
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1000&color=0EF72B&center=true&random=false&width=435&lines=Python+%26+Django+Developer;AWS+Cloud+Admin;SIP%2Ch.323%2CNet%2B%2CSSCA%2C+VoIP+SME)](https://git.io/typing-svg)
 
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">    
@@ -32,7 +32,8 @@
 
 <b>Other:</b>
 <code><img width="15%"  src="https://upload.wikimedia.org/wikipedia/commons/2/20/Asterisk_logo.svg"></code><code><img width="15%"  src="https://lavariega.com/wp-content/uploads/2022/02/issabel.png"></code><code><img width="15%"  src="https://www.vectorlogo.zone/logos/cisco/cisco-ar21.svg"></code>
-
+<code><img width="15%" src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_1509929315/avaya-aura.png"></code>
+<code><img width="15%" src="https://nimishprabhu.com/wp-content/uploads/2013/06/wireshark-logo.png"></code>
 
 <b>Preffered OS: </b>
 <code><img width="15%"  src="https://www.vectorlogo.zone/logos/archlinux/archlinux-ar21.svg"></code>
