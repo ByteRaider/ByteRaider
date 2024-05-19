@@ -12,7 +12,7 @@
 
  <b> Languages:</b>
  <p>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code><code><img width="10%"  src="https://www.vectorlogo.zone/logos/dartlang/dartlang-official.svg"></code><code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code><code><img width="15%"  src="https://www.vectorlogo.zone/logos/dartlang/dartlang-official.svg"></code><code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
 </p>
 
 <b>Frameworks: </b>
@@ -26,14 +26,13 @@
 
 
 <b>Tools:</b>
-<code><img width="15%"  src="https://upload.wikimedia.org/wikipedia/commons/9/92/Logo_Proxmox.svg"></code><code><img width="15%"  src="https://www.vectorlogo.zone/logos/virtualbox/virtualbox-ar21.svg"></code><code><img width="15%"  src="https://upload.wikimedia.org/wikipedia/commons/1/11/VMware_logo.svg"></code><code><img width="15%"  src="https://www.vectorlogo.zone/logos/citrix/citrix-ar21.svg"></code>
-<code><img width="15%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg"></code>
+<code><img width="15%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg"></code><code><img width="15%"  src="https://www.vectorlogo.zone/logos/virtualbox/virtualbox-ar21.svg"></code><code><img width="15%"  src="https://upload.wikimedia.org/wikipedia/commons/1/11/VMware_logo.svg"></code><code><img width="15%"  src="https://www.vectorlogo.zone/logos/citrix/citrix-ar21.svg"></code>
+
 <code><img width="15%" src="https://www.vectorlogo.zone/logos/nginx/nginx-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code><code><img width="15%"  src="https://www.vectorlogo.zone/logos/amazon_awslambda/amazon_awslambda-ar21.svg"></code><code><img width="15%"  src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg"></code>
+<code><img width="15%"  src="https://upload.wikimedia.org/wikipedia/commons/9/92/Logo_Proxmox.svg"></code>
 
 <b>Other:</b>
-<code><img width="15%"  src="https://upload.wikimedia.org/wikipedia/commons/2/20/Asterisk_logo.svg"></code><code><img width="15%"  src="https://lavariega.com/wp-content/uploads/2022/02/issabel.png"></code><code><img width="15%"  src="https://www.vectorlogo.zone/logos/cisco/cisco-ar21.svg"></code>
-<code><img width="15%" src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_1509929315/avaya-aura.png"></code>
-<code><img width="15%" src="https://nimishprabhu.com/wp-content/uploads/2013/06/wireshark-logo.png"></code>
+<code><img width="10%"  src="https://upload.wikimedia.org/wikipedia/commons/2/20/Asterisk_logo.svg"></code><code><img width="10%"  src="https://lavariega.com/wp-content/uploads/2022/02/issabel.png"></code><code><img width="10%"  src="https://www.vectorlogo.zone/logos/cisco/cisco-ar21.svg"></code><code><img width="6%" src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_1509929315/avaya-aura.png"></code><code><img width="10%" src="https://nimishprabhu.com/wp-content/uploads/2013/06/wireshark-logo.png"></code>
 
 <b>Preffered OS: </b>
 <code><img width="15%"  src="https://www.vectorlogo.zone/logos/archlinux/archlinux-ar21.svg"></code>
@@ -109,7 +108,7 @@ subgraph Mobile Dev
  f2 --> fw3
  f2 --> fw4
  f2 --> fw5
- fw6 --> b1
+ fw6 --> b2
  f3 --o fw1
  f3 --o fw2
  f4 --o b1
