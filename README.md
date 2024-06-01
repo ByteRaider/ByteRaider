@@ -1,5 +1,6 @@
 
 
+
 > -  Hi, I’m Jj_@ByteR1d3r
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1000&color=0EF72B&center=true&random=false&width=435&lines=Python,+Django,+Dart,+Flutter;AWS+Cloud+Admin;SIP%2Ch.323%2CNet%2B%2CSSCA%2C+VoIP+SME)](https://git.io/typing-svg)
@@ -73,6 +74,9 @@ b7{ViewSets}
 b8{Template Engine}
 b9{Websocket}
 b10{Models}
+b11{SQL}
+
+bs1{Firebase}
  
 subgraph  BackEnd
 b1
@@ -85,7 +89,9 @@ b7
 b8
 b9
 b10
+b11
  end  
+
 subgraph Libraries
 fw1
 fw2
@@ -108,9 +114,13 @@ subgraph  Web FrontEnd
  f4
  end
  
-subgraph Mobile Dev
+subgraph Mobile
  f5
   end
+subgraph BaaS
+bs1
+end 
+
 
  f1 --o f2
  f1 --o f3
@@ -123,6 +133,7 @@ subgraph Mobile Dev
  f3 --o fw2
  f4 --o b1
  f5 --> fw6
+ fw6 --> bs1
  b1 --> b2
  b1 --> b8
  b1 --> b10
@@ -132,5 +143,6 @@ subgraph Mobile Dev
  b1 --> b5
  b5 --o b6
  b5 --o b7
+ b10 --o b11
  ```
 
