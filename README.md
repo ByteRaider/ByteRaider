@@ -1,7 +1,7 @@
 
 
 
-> -  Hi, I’m Jj_@ByteR1d3r
+> -  Hi, I’m _Jj @ByteR41d3r
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1000&color=0EF72B&center=true&random=false&width=435&lines=Python,+Django,+Dart,+Flutter;AWS+Cloud+Admin;SIP%2Ch.323%2CNet%2B%2CSSCA%2C+VoIP+SME)](https://git.io/typing-svg)
 
@@ -37,7 +37,8 @@
 <code><img width="15%"  src="https://upload.wikimedia.org/wikipedia/commons/9/92/Logo_Proxmox.svg"></code>
 
 <b>Other:</b>
-<code><img width="10%"  src="https://upload.wikimedia.org/wikipedia/commons/2/20/Asterisk_logo.svg"></code><code><img width="10%"  src="https://lavariega.com/wp-content/uploads/2022/02/issabel.png"></code><code><img width="10%"  src="https://www.vectorlogo.zone/logos/cisco/cisco-ar21.svg"></code><code><img width="6%" src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_1509929315/avaya-aura.png"></code><code><img width="10%" src="https://nimishprabhu.com/wp-content/uploads/2013/06/wireshark-logo.png"></code>
+
+<code><img width="10%"  src="https://upload.wikimedia.org/wikipedia/commons/2/20/Asterisk_logo.svg"></code><code><img width="10%"  src="https://lavariega.com/wp-content/uploads/2022/02/issabel.png"></code><code><img width="10%"  src="https://www.vectorlogo.zone/logos/cisco/cisco-ar21.svg"></code><code><img width="6%" src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_1509929315/avaya-aura.png"></code><code><img width="10%" src="https://nimishprabhu.com/wp-content/uploads/2013/06/wireshark-logo.png"></code><code><img width="10%" src="https://www.vectorlogo.zone/logos/gimp/gimp-ar21.svg"></code>
 
 <b>Preffered OS: </b>
 <code><img width="15%"  src="https://www.vectorlogo.zone/logos/archlinux/archlinux-ar21.svg"></code>
