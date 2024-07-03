@@ -3,7 +3,7 @@
 
 > -  Hi, I’m _Jj @ByteR41d3r
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1000&color=0EF72B&center=true&random=false&width=435&lines=From+inLove+import+...;Python,+Django,+Dart,+Flutter;AWS+Cloud+Admin;SIP%2Ch.323%2CNet%2B%2CSSCA%2C+VoIP+SME)](https://github.com/ByteRaider)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1000&color=0EF72B&center=true&random=false&width=435&lines=From+inLove+import+.+.+.;Python,+Django,+Dart,+Flutter;AWS+Cloud+Admin;SIP%2Ch.323%2CNet%2B%2CSSCA%2C+VoIP+SME)](https://github.com/ByteRaider)
 
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">    
 - ⚡ Fun fact: ...
